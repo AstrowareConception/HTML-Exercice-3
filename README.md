@@ -1,4 +1,4 @@
-# HTML-Exercice 1 - CSS à trous !
+# HTML-Exercice 3 - CSS à trous !
 Le but de cet exercice est très simple !
 
 Les propriétés CSS ont disparu de la feuille de style *style.css* ! A vous de les retrouver afin que l'affichage de votre page html exercice.html se rapproche le plus possible du résultat visible dans le fichier *result.png*
